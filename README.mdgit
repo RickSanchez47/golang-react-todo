@@ -1,0 +1,1 @@
+"# golang-react-todo"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/RickSanchez47/golang-react-todo.gitgit push -u origin main
